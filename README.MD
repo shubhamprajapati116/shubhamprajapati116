@@ -12,7 +12,7 @@ hi, i,m shubham prajapti
 A web app that shows real-time weather details using the OpenWeatherMap API.  
 [🔗 View Project](https://github.com/shubhamprajapati116/weather)
 
-2. Todo List App ✅
+### 2. Todo List App ✅
 A simple and interactive task manager that saves your todos locally.  
 [🔗 View Project](https://github.com/shubhamprajapati116/todo-app)
 
